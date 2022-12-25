@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+tr{
+  height: 40px;
+  width: 60%;
+  background-color: bisque;
+}
+tr.a{
+  text-decoration: none;
+  color:brown;
+  padding: 20px;
+}
+input.search{
+    position: absolute;
+    left: 100px;
+    top: 75px;
+    border: 0.5px solid;
+    border-radius: 5px;
+    height: 28px;
+    width: 200px;
+} 
